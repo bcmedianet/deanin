@@ -1417,6 +1417,8 @@
 }
 ol.d {list-style-type: upper-alpha; padding-left: 5%;margin-top: -20px; color: green; font-weight:bold;}
 ol.d .sublist{list-style-type: upper-alpha; color: black; font-weight:none;display: block;}
+ol.e {list-style-type: upper-alpha; padding-left: 5%;margin-top: 5px; color: green; font-weight:bold;text-align: left;}
+ol.e .sublist_e{list-style-type: upper-alpha; color: black; font-weight:none;display: block;}
 .nice-select {
     -webkit-tap-highlight-color: transparent;
     background-color: #fff;
