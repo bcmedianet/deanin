@@ -1,2 +1,2 @@
 "# deanin" 
-project Deanin ini belum dibayar, bagi yang mengambil project ini harap berhati-hati dan saya sarankan untuk meminta deposit dana terlebih dahulu
+project Deanin ini belum dibayar, bagi webdev yang mengambil project ini harap untuk membuat kesepakatan harga terlebih dahulu dengan client ini
